@@ -5,8 +5,12 @@
 @import url("./../icons/themify-icons/css/themify-icons.css");
 @import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&family=Noto+Sans+Arabic:wght@100..900&family=Vazirmatn:wght@100..900&display=swap');
 
+*{
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Noto Kufi Arabic", sans-serif;
+  scroll-behavior: smooth;
 }
 
 :root {
